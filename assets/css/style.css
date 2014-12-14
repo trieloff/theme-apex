@@ -2,7 +2,7 @@
 @import url(http://postach.io/static/themes/_assets/bootstrap/css/bootstrap-responsive.min.css);
 @import url(http://fonts.googleapis.com/css?family=Lora:400,700,400italic);
 @import url(http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700);
-@import '../css/socialicious.css';
+@import url(https://raw.githubusercontent.com/shalinguyen/socialicious/master/css/socialicious.css);
 /*@import url(http://postach.io/static/themes/_assets/fontawesome/css/font-awesome.min.css);*/
 /*---------------------------------------------------
     LESS Elements 0.9.1
@@ -177,6 +177,7 @@
   font-size: 13px;
   font-size: 0.8125rem;
 }
+/*@import '../css/socialicious.css';*/
 html {
   font-size: 100%;
 }
